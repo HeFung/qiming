@@ -45,7 +45,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onBack }) => {
             </h2>
             <div className="space-y-4 text-matsu-text/90 leading-relaxed">
               <p>
-                我是作者 holy_nova，这个5年前的项目，最近获得了颇多关注，感谢大家的 star。
+                我是作者 hefung，这个5年前的项目，最近获得了颇多关注，感谢大家的 star。
               </p>
               <p>
                 这个项目出发点，是基于这样一个简单的理念：<strong className="text-matsu-primary">词库好，名字就好，即使是随机取的</strong>。
