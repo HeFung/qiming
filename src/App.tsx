@@ -154,7 +154,7 @@ function App() {
           <p>© {new Date().getFullYear()} 古诗文起名 | 诗词数据来源于网络</p>
           <div className="flex items-center justify-center gap-4">
             <a 
-              href="https://github.com/holynova/gushi_namer" 
+              href="https://github.com/hefung/qiming" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-matsu-primary hover:text-matsu-primaryHover transition-colors"
@@ -166,12 +166,12 @@ function App() {
           </div>
           <div className="flex items-center justify-center gap-4">
             <a 
-              href="https://github.com/holynova/gushi_namer" 
+              href="https://github.com/hefung/qiming" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-matsu-primary hover:text-matsu-primaryHover transition-colors"
             >
-              github地址 https://github.com/holynova/gushi_namer
+              github地址 https://github.com/hefung/qiming
             </a>
           </div>
           <div className="flex items-center justify-center gap-2 pt-2">
